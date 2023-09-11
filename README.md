@@ -1,4 +1,4 @@
-(https://github.com/stal-ix/ix is a stable branch, all development goes into https://github.com/pg83/ix, please send PRs there)
+This repository is a stable branch. All development activities are carried out on https://github.com/pg83/ix. Kindly submit all PRs there.
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stal-ix/stal-ix.github.io/blob/main/images/ixpm_02.png" width="250px" height="94px">
